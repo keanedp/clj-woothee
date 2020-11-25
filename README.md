@@ -1,6 +1,6 @@
 # clj-woothee
 
-Project Woothee is multi-language user-agent string parser.
+Project Woothee is a multi-language user-agent string parser.
 
 You can try it on demo site: http://woothee.github.io/
 
